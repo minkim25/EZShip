@@ -86,7 +86,7 @@ GEM
     currencies (0.4.2)
     debug_inspector (0.0.2)
     erubis (2.7.0)
-    excon (0.45.4)
+    excon (0.71.0)
     execjs (2.6.0)
     fog (1.23.0)
       fog-brightbox
